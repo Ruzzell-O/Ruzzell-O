@@ -1,7 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 ## About Me
 
 Hi, I'm Ruzzell, a **passionate in data science** with a love for discover uncover data to derive actionable insights. With a strong foundation in both data analysis and machine learning algoritechnologies, I enjoy working on projects that gathers insight from data to solve ral-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, reading and researching papers, contributing to open-source projects or sharing my knowledge with community.
