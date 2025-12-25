@@ -12,8 +12,6 @@ Hi, I'm Ruzzell, a **passionate in data science** with a love for discover uncov
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ruzzell-O/Ruzzell-O/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 ## My Skills
 
 <div align="left">
