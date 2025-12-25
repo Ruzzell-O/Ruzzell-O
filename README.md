@@ -3,9 +3,9 @@
 Hi, I'm Ruzzell, a **passionate in data science** with a love for discover uncover data to derive actionable insights. With a strong foundation in both data analysis and machine learning algoritechnologies, I enjoy working on projects that gathers insight from data to solve ral-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, reading and researching papers, contributing to open-source projects or sharing my knowledge with community.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mark-Barican/Mark-Barican/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mark-Barican/Mark-Barican/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mark-Barican/Mark-Barican/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruzzell-O/Ruzzell-O/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruzzell-O/Ruzzell-O/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ruzzell-O/Ruzzell-O/output/pacman-contribution-graph.svg">
 </picture>
 
 ## My Skills
