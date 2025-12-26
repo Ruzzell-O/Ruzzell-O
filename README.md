@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I'm Ruzzell, a **passionate in data science** with a love for discover uncover data to derive actionable insights. With a strong foundation in both data analysis and machine learning algoritechnologies, I enjoy working on projects that gathers insight from data to solve ral-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, reading and researching papers, contributing to open-source projects or sharing my knowledge with community.
+Hi, I'm Ruzzell, passionate **about data science** with a love for discovering and uncovering data to derive actionable insights. With a strong foundation in both data analysis and machine learning technologies, I enjoy working on projects that gather insight from data to solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, reading and researching papers, contributing to open-source projects, or sharing my knowledge with the community.
 
 ## My Skills
 
