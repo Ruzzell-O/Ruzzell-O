@@ -56,7 +56,9 @@ I do data science, which is 80% cleaning data and 20% complaining about cleaning
 </div>
 
 ## GitHub Stats
-
+<a href="https://github.com/Ruzzell-O/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ruzzell-O&style=for-the-badge">
+</a>
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Ruzzell-O&theme=dark&show_icons=true&count_private=true">
 
