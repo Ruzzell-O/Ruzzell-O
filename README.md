@@ -5,11 +5,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruzzell-O/Ruzzell-O/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ruzzell-O/Ruzzell-O/output/pacman-contribution-graph.svg">
 
-</picture>
-<a href="https://github.com/Ruzzell-O/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ruzzell-O&style=for-the-badge">
-</a>
-
 ## About Me
 I do data science, which is 80% cleaning data and 20% complaining about cleaning data.
 ## My Skills
